@@ -1,1 +1,1 @@
-# FinalProjectEconomectrics
+# Final Project - Economectrics (MODS202)
